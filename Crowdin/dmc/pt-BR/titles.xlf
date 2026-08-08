@@ -135,7 +135,7 @@
       <trans-unit id="s000017" resname="Spec_NoTarget">
         <source xml:space="preserve">No valid targets. Cannot switch to Chase-Camera Mode.
 </source>
-        <target state="needs-translation">No valid targets. Cannot switch to Chase-Camera Mode.
+        <target state="translated">Sem alvos válidos. Não é possível alterar para a câmera de perseguição.
 </target>
         <note>GoldSrc identifier: Spec_NoTarget</note>
       </trans-unit>
@@ -386,10 +386,10 @@ Na visão geral do mapa, movimente-se com:
 </target>
         <note>GoldSrc identifier: Mic_Volume</note>
       </trans-unit>
-      <trans-unit id="s000049" resname="Speaker_Volume">
+      <trans-unit id="s000049" resname="Speaker_Volume" approved="yes">
         <source xml:space="preserve">Speaker Volume
 </source>
-        <target state="needs-translation">Speaker Volume
+        <target state="final">Volume dos alto-falantes
 </target>
         <note>GoldSrc identifier: Speaker_Volume</note>
       </trans-unit>
