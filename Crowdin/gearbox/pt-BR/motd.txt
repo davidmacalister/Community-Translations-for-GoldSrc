@@ -1,7 +1,7 @@
 MENSAGEM DO DIA
 Bem-vindo ao Opposing Force
 
-A rotação de mapas deste servidor é:
+Map Rotation For This Server:
 
 op4_bootcamp
 op4_datacore
