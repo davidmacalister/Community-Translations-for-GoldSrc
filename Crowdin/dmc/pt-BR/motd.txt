@@ -1,6 +1,6 @@
 Bem-vindo ao Deathmatch Classic
 
-A rota??o de mapas deste servidor ?:
+The Map Rotation for this Server is:
 
 dmc_dm2
 dmc_dm3
