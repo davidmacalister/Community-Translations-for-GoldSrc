@@ -10,12 +10,12 @@
 
 5. Auto-select
 </source>
-        <target state="translated">\ySelecionar equipe\w
+        <target state="needs-translation">\ySelect a team\w
 
-1. Força Terrorista
-2. Força Contraterrorista
+1. Terrorist Force
+2. Counter-Terrorist Force
 
-5. Auto Atribuir
+5. Auto-select
 </target>
         <note>GoldSrc identifier: Team_Select</note>
       </trans-unit>
@@ -28,13 +28,13 @@
 5. Auto-select
 6. Spectator
 </source>
-        <target state="translated">\ySelecionar equipe\w
+        <target state="needs-translation">\ySelect a team\w
 
-1. Força Terrorista
-2. Força Contraterrorista
+1. Terrorist Force
+2. Counter-Terrorist Force
 
-5. Auto Atribuir
-6. Assistir
+5. Auto-select
+6. Spectator
 </target>
         <note>GoldSrc identifier: Team_Select_Spect</note>
       </trans-unit>
@@ -48,14 +48,14 @@
 
 0. Exit
 </source>
-        <target state="translated">\ySelecionar equipe\w
+        <target state="needs-translation">\ySelect a team\w
 
-1. Força Terrorista
-2. Força Contraterrorista
+1. Terrorist Force
+2. Counter-Terrorist Force
 
-5. Auto Atribuir
+5. Auto-select
 
-0. Sair
+0. Exit
 </target>
         <note>GoldSrc identifier: IG_Team_Select</note>
       </trans-unit>
@@ -70,16 +70,15 @@
 
 0. Exit
 </source>
-        <target state="translated">\ySelecionar equipe\w
+        <target state="needs-translation">\ySelect a team\w
 
-1. Força Terrorista
-2. Força Contraterrorista
+1. Terrorist Force
+2. Counter-Terrorist Force
 
+5. Auto-select
+6. Spectator
 
-5. Auto Atribuir
-6. Assistir
-
-0. Sair
+0. Exit
 </target>
         <note>GoldSrc identifier: IG_Team_Select_Spect</note>
       </trans-unit>
@@ -94,15 +93,15 @@
 
 0. Exit
 </source>
-        <target state="translated">\ySelecionar equipe\w
+        <target state="needs-translation">\ySelect a team\w
 
-1. Força Terrorista
-2. Força Contraterrorista
+1. Terrorist Force
+2. Counter-Terrorist Force
 3. VIP
 
-5. Auto Atribuir
+5. Auto-select
 
-0. Sair
+0. Exit
 </target>
         <note>GoldSrc identifier: IG_VIP_Team_Select</note>
       </trans-unit>
@@ -118,17 +117,16 @@
 
 0. Exit
 </source>
-        <target state="translated">\ySelecionar equipe\w
+        <target state="needs-translation">\ySelect a team\w
 
-
-1. Força Terrorista
-2. Força Contraterrorista
+1. Terrorist Force
+2. Counter-Terrorist Force
 3. VIP
 
-5. Auto Atribuir
-6. Assistir
+5. Auto-select
+6. Spectator
 
-0. Sair
+0. Exit
 </target>
         <note>GoldSrc identifier: IG_VIP_Team_Select_Spect</note>
       </trans-unit>
@@ -142,14 +140,14 @@
 
 5. Auto-select
 </source>
-        <target state="translated">\ySelecione sua aparência\w
+        <target state="needs-translation">\ySelect your appearance\w
 
 1. Phoenix Connexion
 2. Elite Crew
-3. Vingadores do Ártico
-4. Guerrilheiros
+3. Arctic Avengers
+4. Guerilla Warfare
 
-5. Auto Atribuir
+5. Auto-select
 </target>
         <note>GoldSrc identifier: Terrorist_Select</note>
       </trans-unit>
@@ -163,14 +161,14 @@
 
 5. Auto-select
 </source>
-        <target state="translated">\ySelecione sua aparência\w
+        <target state="needs-translation">\ySelect your appearance\w
 
 1. Seal Team 6
 2. GSG-9
 3. SAS
 4. GIGN
 
-5. Auto Atribuir
+5. Auto-select
 </target>
         <note>GoldSrc identifier: CT_Select</note>
       </trans-unit>
@@ -190,20 +188,20 @@
 
 0. Exit
 </source>
-        <target state="translated">\yComprar item\w
+        <target state="needs-translation">\yBuy Item\w
 
-1. Metralhadoras
-2. Escopeta
-3. Submetralhadoras
-4. Escopetas
-5. Equipamento
+1. Handgun
+2. Shotgun
+3. Sub-Machine Gun
+4. Rifle
+5. Machine Gun
 
-6. Munição da arma primária
-7. Munição da arma secundária
+6. Primary weapon ammo
+7. Secondary weapon ammo
 
 8. Equipment
 
-0. Sair
+0. Exit
 </target>
         <note>GoldSrc identifier: Buy</note>
       </trans-unit>
@@ -221,16 +219,16 @@
 
 \w0. Exit
 </source>
-        <target state="translated">\yComprar Equipamento\R$ Custo
+        <target state="needs-translation">\yBuy Equipment\R$   Cost
 
-\w1. Colete Kevlar\y\R650
-\w2. Colete Kevlar &amp; Capacete\y\R1000
-\w3. Granada de luz\y\R200
-\w4. Granada Explosiva\y\R300
-\w5. Granada de Fumaça\y\R300
-\w6. Óculos de Visão Noturna\y\R1250
-\d7. Kit de Desarme\y\R200
-\w8. Escudo Tático\y\R2200
+\w1. Kevlar Vest\y\R650
+\w2. Kevlar Vest &amp; Helmet\y\R1000
+\w3. Flashbang\y\R200	
+\w4. HE Grenade\y\R300
+\w5. Smoke Grenade\y\R300
+\w6. NightVision Goggles\y\R1250
+\d7. Defuse Kit\y\R200
+\w8. Tactical Shield\y\R2200
 
 \w0. Exit
 </target>
@@ -248,16 +246,16 @@
 
 \w0. Exit
 </source>
-        <target state="translated">\yComprar Equipamento\R$ Custo
+        <target state="needs-translation">\yBuy Equipment\R$   Cost
 
-\w1. Colete Kevlar\y\R650
-\w2. Colete Kevlar &amp; Capacete\y\R1000
-\w3. Flashbang\y\R200
-\w4. Granada Explosiva\y\R300
-\w5. Granada de Fumaça\y\R300
-\w6. Óculos de Visão Noturna\y\R1250
+\w1. Kevlar Vest\y\R650
+\w2. Kevlar Vest &amp; Helmet\y\R1000
+\w3. Flashbang\y\R200	
+\w4. HE Grenade\y\R300
+\w5. Smoke Grenade\y\R300
+\w6. NightVision Goggles\y\R1250
 
-\w0. Sair
+\w0. Exit
 </target>
         <note>GoldSrc identifier: T_BuyItem</note>
       </trans-unit>
@@ -275,18 +273,18 @@
 
 \w0. Exit
 </source>
-        <target state="translated">\yComprar Equipamento\R$   Custo
+        <target state="needs-translation">\yBuy Equipment\R$   Cost
 
-\w1. Colete Kevlar\y\R650
-\w2. Colete Kevlar &amp; Capacete\y\R1000
+\w1. Kevlar Vest\y\R650
+\w2. Kevlar Vest &amp; Helmet\y\R1000
 \w3. Flashbang\y\R200	
-\w4. Granada Explosiva\y\R300
-\w5. Granada de Fumaça\y\R300
-\w6. Óculos de Visão Noturna\y\R1250
-\w7. Kit de Desarme\y\R200
-\w8. Escudo Tático\y\R2200
+\w4. HE Grenade\y\R300
+\w5. Smoke Grenade\y\R300
+\w6. NightVision Goggles\y\R1250
+\w7. Defuse Kit\y\R200
+\w8. Tactical Shield\y\R2200
 
-\w0. Sair
+\w0. Exit
 </target>
         <note>GoldSrc identifier: DCT_BuyItem</note>
       </trans-unit>
@@ -302,16 +300,17 @@
 
 \w0. Exit
 </source>
-        <target state="translated">\yComprar Equipamento\R$   Custo
+        <target state="needs-translation">\yBuy Equipment\R$   Cost
 
-\w1. Colete Kevlar\y\R650
-\w2. Colete Kevlar &amp; Capacete\y\R1000
+\w1. Kevlar Vest\y\R650
+\w2. Kevlar Vest &amp; Helmet\y\R1000
 \w3. Flashbang\y\R200	
-\w4. Granada Explosiva\y\R300
-\w5. Granada de Fumaça\y\R300
-\w6. Óculos de Visão Noturna\y\R1250
+\w4. HE Grenade\y\R300
+\w5. Smoke Grenade\y\R300
+\w6. NightVision Goggles\y\R1250
 
-\w0. Sair</target>
+\w0. Exit
+</target>
         <note>GoldSrc identifier: DT_BuyItem</note>
       </trans-unit>
       <trans-unit id="s000014" resname="CT_BuyPistol">
@@ -326,16 +325,17 @@
 
 \w0. Exit
 </source>
-        <target state="translated">\yComprar Pistola\R$   Custo
-(Arma Primária)
+        <target state="needs-translation">\yBuy Handgun\R$   Cost
+(Secondary weapon)
 
-\w1. Arma Secundária 9x19mm\y\R400
-\w2. K&amp;M .45 Tática\y\R500
-\w3. 228 Compacta\y\R600
+\w1. 9X19mm Sidearm\y\R400
+\w2. K&amp;M .45 Tactical\y\R500
+\w3. 228 Compact\y\R600
 \w4. Night Hawk .50C\y\R650
 \w5. ES Five-Seven\y\R750
 
-\w0. Sair</target>
+\w0. Exit
+</target>
         <note>GoldSrc identifier: CT_BuyPistol</note>
       </trans-unit>
       <trans-unit id="s000015" resname="T_BuyPistol">
@@ -350,16 +350,16 @@
 
 \w0. Exit
 </source>
-        <target state="translated">\yComprar Pistola\R$   Custo
-(Arma Primária)
+        <target state="needs-translation">\yBuy Handgun\R$   Cost
+(Secondary weapon)
 
-\w1. Arma Secundária 9x19mm\y\R400
-\w2. K&amp;M .45 Tática\y\R500
-\w3. 228 Compacta\y\R600
+\w1. 9X19mm Sidearm\y\R400
+\w2. K&amp;M .45 Tactical\y\R500
+\w3. 228 Compact\y\R600
 \w4. Night Hawk .50C\y\R650
-\w5. Elites Duplas .40\y\R800
+\w5. .40 Dual Elites\y\R800
 
-\w0. Sair
+\w0. Exit
 </target>
         <note>GoldSrc identifier: T_BuyPistol</note>
       </trans-unit>
@@ -372,13 +372,13 @@
 
 \w0. Exit
 </source>
-        <target state="translated">\yComprar Escopeta\R$   Custo
-(Arma Primária)
+        <target state="needs-translation">\yBuy Shotgun\R$   Cost
+(Primary weapon)
 
-\d1. Leone Calibre 12 Super\y\R1700
-\d2. Escopeta Automática Leone Yg1265\y\R3000
+\d1. Leone 12 Gauge Super\y\R1700
+\d2. Leone YG1265 Auto Shotgun\y\R3000
 
-\w0. Sair
+\w0. Exit
 </target>
         <note>GoldSrc identifier: AS_BuyShotgun</note>
       </trans-unit>
@@ -391,13 +391,13 @@
 
 \w0. Exit
 </source>
-        <target state="translated">\yComprar Escopeta\R$   Custo
-(Arma Primária)
+        <target state="needs-translation">\yBuy Shotgun\R$   Cost
+(Primary weapon)
 
-\d1. Leone Calibre 12 Super\y\R1700
-\d2. Escopeta Automática Leone Yg1265\y\R3000
+\w1. Leone 12 Gauge Super\y\R1700
+\w2. Leone YG1265 Auto Shotgun\y\R3000
 
-\w0. Sair
+\w0. Exit
 </target>
         <note>GoldSrc identifier: BuyShotgun</note>
       </trans-unit>
@@ -412,15 +412,15 @@
 
 \w0. Exit
 </source>
-        <target state="translated">\yComprar Submetralhadoras\R$   Custo
-(Arma Primária)
+        <target state="needs-translation">\yBuy Sub-Machine Gun\R$   Cost
+(Primary weapon)
 
-\w1. Pistola-metralhadora Schmidt\y\R1250
-\w2. Submetralhadora K&amp;M\y\R1500
+\w1. Schmidt Machine Pistol\y\R1250
+\w2. K&amp;M Sub-Machine Gun\y\R1500
 \w3. K&amp;M UMP45\y\R1700
 \w4. ES C90\y\R2350
 
-\w0. Sair
+\w0. Exit
 </target>
         <note>GoldSrc identifier: CT_BuySubMachineGun</note>
       </trans-unit>
@@ -435,15 +435,15 @@
 
 \w0. Exit
 </source>
-        <target state="translated">\yComprar Submetralhadoras\R$   Custo
-(Arma Primária)
+        <target state="needs-translation">\yBuy Sub-Machine Gun\R$   Cost
+(Primary weapon)
 
 \w1. Ingram MAC-10\y\R1400
-\w2. Submetralhadora K&amp;M\y\R1500
+\w2. K&amp;M Sub-Machine Gun\y\R1500
 \w3. K&amp;M UMP45\y\R1700
 \w4. ES C90\y\R2350
 
-\w0. Sair
+\w0. Exit
 </target>
         <note>GoldSrc identifier: T_BuySubMachineGun</note>
       </trans-unit>
@@ -458,15 +458,15 @@
 
 \w0. Exit
 </source>
-        <target state="translated">\yComprar Submetralhadoras\R$   Custo
-(Arma Primária)
+        <target state="needs-translation">\yBuy Sub-Machine Gun\R$   Cost
+(Primary weapon)
 
-\w1. Pistola-metralhadora Schmidt\y\R1250
-\w2. Submetralhadora K&amp;M\y\R1500
+\w1. Schmidt Machine Pistol\y\R1250
+\w2. K&amp;M Sub-Machine Gun\y\R1500
 \w3. K&amp;M UMP45\y\R1700
 \w4. ES C90\y\R2350
 
-\w0. Sair
+\w0. Exit
 </target>
         <note>GoldSrc identifier: AS_CT_BuySubMachineGun</note>
       </trans-unit>
@@ -481,15 +481,15 @@
 
 \w0. Exit
 </source>
-        <target state="translated">\yComprar Submetralhadoras\R$   Custo
-(Arma Primária)
+        <target state="needs-translation">\yBuy Sub-Machine Gun\R$   Cost
+(Primary weapon)
 
 \w1. Ingram MAC-10\y\R1400
-\d2. Submetralhadora K&amp;M\y\R1500
+\d2. K&amp;M Sub-Machine Gun\y\R1500
 \w3. K&amp;M UMP45\y\R1700
 \d4. ES C90\y\R2350
 
-\w0. Sair
+\w0. Exit
 </target>
         <note>GoldSrc identifier: AS_T_BuySubMachineGun</note>
       </trans-unit>
@@ -506,17 +506,17 @@
 
 \w0. Exit
 </source>
-        <target state="translated">\yComprar Rifles\R$   Custo
-(Arma Primária)
+        <target state="needs-translation">\yBuy Rifle\R$   Cost
+(Primary weapon)
 
 \w1. IDF Defender\y\R2000
 \w2. CV-47\y\R2500
 \w3. Schmidt Scout\y\R2750
 \w4. Krieg 552 Commando\y\R3500
-\w5. Rifle de Precisão Magnum\y\R4750
-\w6. D3/AU-1 Rifle de Precisão Semiautomático\y\R5000
+\w5. Magnum Sniper Rifle\y\R4750
+\w6. D3/AU-1 Semi-Auto Sniper Rifle\y\R5000
 
-\w0. Sair
+\w0. Exit
 </target>
         <note>GoldSrc identifier: T_BuyRifle</note>
       </trans-unit>
@@ -533,17 +533,17 @@
 
 \w0. Exit
 </source>
-        <target state="translated">\yComprar Rifles\R$   Custo
-(Arma Primária)
+        <target state="needs-translation">\yBuy Rifle\R$   Cost
+(Primary weapon)
 
 \w1. Clarion 5.56\y\R2250
 \w2. Schmidt Scout\y\R2750
-\w3. Carabina Maverick M4A1\y\R3100
+\w3. Maverick M4A1 Carbine\y\R3100
 \w4. Bullpup\y\R3500
 \w5. Krieg 550 Commando\y\R4200
-\w6. Rifle de Precisão Magnum\y\R4750
+\w6. Magnum Sniper Rifle\y\R4750
 
-\w0. Sair
+\w0. Exit
 </target>
         <note>GoldSrc identifier: CT_BuyRifle</note>
       </trans-unit>
@@ -560,17 +560,17 @@
 
 \w0. Exit
 </source>
-        <target state="translated">\yComprar Rifles\R$   Custo
-(Arma Secundária)
+        <target state="needs-translation">\yBuy Rifle\R$   Cost
+(Primary weapon)
 
 \w1. IDF Defender\y\R2000
 \w2. CV-47\y\R2500
 \d3. Schmidt Scout\y\R2750
 \d4. Krieg 552 Commando\y\R3500
-\w5. Rifle de Precisão Magnum\y\R4750
-\d6. D3/AU-1 Rifle de Precisão Semiautomático\y\R5000
+\w5. Magnum Sniper Rifle\y\R4750
+\d6. D3/AU-1 Semi-Auto Sniper Rifle\y\R5000
 
-\w0. Sair
+\w0. Exit
 </target>
         <note>GoldSrc identifier: AS_T_BuyRifle</note>
       </trans-unit>
@@ -587,17 +587,17 @@
 
 \w0. Exit
 </source>
-        <target state="translated">\yComprar Rifles\R$   Custo
-(Arma Secundária)
+        <target state="needs-translation">\yBuy Rifle\R$   Cost
+(Primary weapon)
 
 \w1. Clarion 5.56\y\R2250
 \d2. Schmidt Scout\y\R2750
-\w3. Carabina Maverick M4A1\y\R3100
+\w3. Maverick M4A1 Carbine\y\R3100
 \w4. Bullpup\y\R3500
 \w5. Krieg 550 Commando\y\R4200
-\d6. Rifle de Precisão Magnum\y\R4750
+\d6. Magnum Sniper Rifle\y\R4750
 
-\w0. Sair
+\w0. Exit
 </target>
         <note>GoldSrc identifier: AS_CT_BuyRifle</note>
       </trans-unit>
@@ -609,12 +609,12 @@
 
 \w0. Exit
 </source>
-        <target state="translated">\yComprar Metralhadoras\R$   Custo
-(Arma Primária)
+        <target state="needs-translation">\yBuy Machine Gun\R$   Cost
+(Primary weapon)
 
 \d1. ES M249 Para\y\R5750
 
-\w0. Sair
+\w0. Exit
 </target>
         <note>GoldSrc identifier: AS_T_BuyMachineGun</note>
       </trans-unit>
@@ -626,12 +626,12 @@
 
 \w0. Exit
 </source>
-        <target state="translated">\yComprar Metralhadoras\R$   Custo
-(Arma Primária)
+        <target state="needs-translation">\yBuy Machine Gun\R$   Cost
+(Primary weapon)
 
 \w1. ES M249 Para\y\R5750
 
-\w0. Sair
+\w0. Exit
 </target>
         <note>GoldSrc identifier: BuyMachineGun</note>
       </trans-unit>
@@ -647,16 +647,16 @@
 
 0. Exit
 </source>
-        <target state="translated">\yComandos de rádio\w
+        <target state="needs-translation">\yRadio Commands\w
 
-1. "Me dê cobertura"
-2. "Você, fique no ponto"
-3. "Mantenha esta posição"
-4. "Equipe, reagrupar"
-5. "Siga-me"
-6. "Sob fogo inimigo, preciso de ajuda"
+1. "Cover Me"
+2. "You Take the Point"
+3. "Hold This Position"
+4. "Regroup Team"
+5. "Follow Me"
+6. "Taking Fire, Need Assistance"
 
-0. Sair
+0. Exit
 </target>
         <note>GoldSrc identifier: RadioA</note>
       </trans-unit>
@@ -672,16 +672,16 @@
 
 0. Exit
 </source>
-        <target state="translated">\yComandos de rádio para o grupo\w
+        <target state="needs-translation">\yGroup Radio Commands\w
 
-1. "Vai"
-2. "Recuem"
-3. "Equipe, não se separe"
-4. "Vá para a posição"
-5. "Ataque pela frente"
-6. "Reportando"
+1. "Go"
+2. "Fall Back"
+3. "Stick Together Team"
+4. "Get in Position"
+5. "Storm the Front"
+6. "Report In"
 
-0. Sair
+0. Exit
 </target>
         <note>GoldSrc identifier: RadioB</note>
       </trans-unit>
@@ -700,19 +700,19 @@
 
 0. Exit
 </source>
-        <target state="translated">\yRespostas/Avisos via rádio\w
+        <target state="needs-translation">\yRadio Responses/Reports\w
 
-1. "Afirmativo/Entendido"
-2. "Inimigo avistado"
-3. "Preciso de reforços"
-4. "Setor limpo"
-5. "Em posição"
-6. "Reporte, equipe"	
-7. "Ela vai explodir!"
-8. "Negativo"
+1. "Affirmative/Roger"
+2. "Enemy Spotted"
+3. "Need Backup"
+4. "Sector Clear"
+5. "I'm in Position"
+6. "Reporting In"	
+7. "She's gonna Blow!"
+8. "Negative"
 9. "Enemy Down"
 
-0. Sair
+0. Exit
 </target>
         <note>GoldSrc identifier: RadioC</note>
       </trans-unit>
@@ -1317,7 +1317,7 @@
       <trans-unit id="s000117" resname="Wait_3_Seconds">
         <source xml:space="preserve">Please wait 3 seconds.
 </source>
-        <target state="translated">Aguarde 3 segundos.
+        <target state="needs-translation">Please wait 3 seconds.
 </target>
         <note>GoldSrc identifier: Wait_3_Seconds</note>
       </trans-unit>
@@ -1422,14 +1422,14 @@
       <trans-unit id="s000132" resname="Banned_For_Killing_Teammates">
         <source xml:space="preserve">You are being banned from the server for killing too many teammates
 </source>
-        <target state="translated">Você foi banido(a) do servidor por matar muitos aliados.
+        <target state="needs-translation">You are being banned from the server for killing too many teammates
 </target>
         <note>GoldSrc identifier: Banned_For_Killing_Teammates</note>
       </trans-unit>
       <trans-unit id="s000133" resname="Cannot_Vote_Map">
         <source xml:space="preserve">You cannot vote within 3 minutes of a new map
 </source>
-        <target state="translated">Você não pode votar nos 3 primeiros minutos de um novo mapa
+        <target state="needs-translation">You cannot vote within 3 minutes of a new map
 </target>
         <note>GoldSrc identifier: Cannot_Vote_Map</note>
       </trans-unit>
@@ -1569,56 +1569,56 @@
       <trans-unit id="s000153" resname="Game_connected">
         <source xml:space="preserve">%s connected
 </source>
-        <target state="translated">%s conectou-se
+        <target state="needs-translation">%s connected
 </target>
         <note>GoldSrc identifier: Game_connected</note>
       </trans-unit>
       <trans-unit id="s000154" resname="Game_disconnected">
         <source xml:space="preserve">%s has left the game
 </source>
-        <target state="translated">%s saiu da partida
+        <target state="needs-translation">%s has left the game
 </target>
         <note>GoldSrc identifier: Game_disconnected</note>
       </trans-unit>
       <trans-unit id="s000155" resname="Game_join_terrorist">
         <source xml:space="preserve">%s is joining the Terrorist force
 </source>
-        <target state="translated">%s está se juntando às forças Terroristas
+        <target state="needs-translation">%s is joining the Terrorist force
 </target>
         <note>GoldSrc identifier: Game_join_terrorist</note>
       </trans-unit>
       <trans-unit id="s000156" resname="Game_join_ct">
         <source xml:space="preserve">%s is joining the Counter-Terrorist force
 </source>
-        <target state="translated">%s está se juntando às forças Contraterroristas
+        <target state="needs-translation">%s is joining the Counter-Terrorist force
 </target>
         <note>GoldSrc identifier: Game_join_ct</note>
       </trans-unit>
       <trans-unit id="s000157" resname="Game_join_terrorist_auto">
         <source xml:space="preserve">%s is joining the Terrorist force (auto)
 </source>
-        <target state="translated">%s está se juntando às forças Terroristas (auto)
+        <target state="needs-translation">%s is joining the Terrorist force (auto)
 </target>
         <note>GoldSrc identifier: Game_join_terrorist_auto</note>
       </trans-unit>
       <trans-unit id="s000158" resname="Game_join_ct_auto">
         <source xml:space="preserve">%s is joining the Counter-Terrorist force (auto)
 </source>
-        <target state="translated">%s está se juntando às forças Contraterroristas (auto)
+        <target state="needs-translation">%s is joining the Counter-Terrorist force (auto)
 </target>
         <note>GoldSrc identifier: Game_join_ct_auto</note>
       </trans-unit>
       <trans-unit id="s000159" resname="Game_scoring">
         <source xml:space="preserve">Scoring will not start until both teams have players
 </source>
-        <target state="translated">Não haverá pontuação até que ambas as equipes tenham jogadores
+        <target state="needs-translation">Scoring will not start until both teams have players
 </target>
         <note>GoldSrc identifier: Game_scoring</note>
       </trans-unit>
       <trans-unit id="s000160" resname="Game_idle_kick">
         <source xml:space="preserve">%s has been idle for too long and has been kicked
 </source>
-        <target state="translated">%s ficou ausente por muito tempo e foi expulso(a)
+        <target state="needs-translation">%s has been idle for too long and has been kicked
 </target>
         <note>GoldSrc identifier: Game_idle_kick</note>
       </trans-unit>
@@ -1639,21 +1639,21 @@
       <trans-unit id="s000163" resname="Game_no_timelimit">
         <source xml:space="preserve">* No Time Limit *
 </source>
-        <target state="translated">* Sem limite de tempo *
+        <target state="needs-translation">* No Time Limit *
 </target>
         <note>GoldSrc identifier: Game_no_timelimit</note>
       </trans-unit>
       <trans-unit id="s000164" resname="Game_timelimit">
         <source xml:space="preserve">Time Remaining:  %s:%.2s
 </source>
-        <target state="translated">Tempo restante:  %s:%.2s
+        <target state="needs-translation">Time Remaining:  %s:%.2s
 </target>
         <note>GoldSrc identifier: Game_timelimit</note>
       </trans-unit>
       <trans-unit id="s000165" resname="Game_unknown_command">
         <source xml:space="preserve">Unknown command: %s
 </source>
-        <target state="translated">Comando desconhecido: %s
+        <target state="needs-translation">Unknown command: %s
 </target>
         <note>GoldSrc identifier: Game_unknown_command</note>
       </trans-unit>
@@ -1674,28 +1674,28 @@
       <trans-unit id="s000168" resname="Game_teammate_kills">
         <source xml:space="preserve">Teammate kills: %s of 3
 </source>
-        <target state="translated">Aliados mortos: %s de 3
+        <target state="needs-translation">Teammate kills: %s of 3
 </target>
         <note>GoldSrc identifier: Game_teammate_kills</note>
       </trans-unit>
       <trans-unit id="s000169" resname="Game_required_votes">
         <source xml:space="preserve">Required number of votes for a new map = %s
 </source>
-        <target state="translated">Quantidade necessária de votos para mudar de mapa = %s
+        <target state="needs-translation">Required number of votes for a new map = %s
 </target>
         <note>GoldSrc identifier: Game_required_votes</note>
       </trans-unit>
       <trans-unit id="s000170" resname="Game_radio">
         <source xml:space="preserve">%s (RADIO): %s
 </source>
-        <target state="translated">%s (RÁDIO): %s
+        <target state="needs-translation">%s (RADIO): %s
 </target>
         <note>GoldSrc identifier: Game_radio</note>
       </trans-unit>
       <trans-unit id="s000171" resname="Game_teammate_attack">
         <source xml:space="preserve">%s attacked a teammate
 </source>
-        <target state="translated">%s atacou um aliado
+        <target state="needs-translation">%s attacked a teammate
 </target>
         <note>GoldSrc identifier: Game_teammate_attack</note>
       </trans-unit>
@@ -1709,53 +1709,56 @@
       <trans-unit id="s000173" resname="Game_vote_cast">
         <source xml:space="preserve">Vote cast against player # %s
 </source>
-        <target state="translated">Voto dado contra o jogador nº %s
+        <target state="needs-translation">Vote cast against player # %s
 </target>
         <note>GoldSrc identifier: Game_vote_cast</note>
       </trans-unit>
       <trans-unit id="s000174" resname="Game_vote_usage">
         <source xml:space="preserve">Usage:  vote &lt;id&gt;
 </source>
-        <target state="translated">Uso: vote &lt;id&gt;
+        <target state="needs-translation">Usage:  vote &lt;id&gt;
 </target>
         <note>GoldSrc identifier: Game_vote_usage</note>
       </trans-unit>
       <trans-unit id="s000175" resname="Game_vote_player_not_found">
         <source xml:space="preserve">Player # %s was not found
 </source>
-        <target state="translated">O jogador nº %s não foi encontrado</target>
+        <target state="needs-translation">Player # %s was not found
+</target>
         <note>GoldSrc identifier: Game_vote_player_not_found</note>
       </trans-unit>
       <trans-unit id="s000176" resname="Game_vote_players_on_your_team">
         <source xml:space="preserve">You can only vote for players on your team
 </source>
-        <target state="translated">Você só pode votar em jogadores na sua equipe</target>
+        <target state="needs-translation">You can only vote for players on your team
+</target>
         <note>GoldSrc identifier: Game_vote_players_on_your_team</note>
       </trans-unit>
       <trans-unit id="s000177" resname="Game_vote_not_yourself">
         <source xml:space="preserve">You can't vote to kick yourself!
 </source>
-        <target state="translated">Você não pode votar para expulsar a si mesmo!
+        <target state="needs-translation">You can't vote to kick yourself!
 </target>
         <note>GoldSrc identifier: Game_vote_not_yourself</note>
       </trans-unit>
       <trans-unit id="s000178" resname="Game_voted_for_map">
         <source xml:space="preserve">You voted for Map # %s
 </source>
-        <target state="translated">Você votou no mapa nº %s</target>
+        <target state="needs-translation">You voted for Map # %s
+</target>
         <note>GoldSrc identifier: Game_voted_for_map</note>
       </trans-unit>
       <trans-unit id="s000179" resname="Game_votemap_usage">
         <source xml:space="preserve">Usage:  votemap &lt;id&gt;
 </source>
-        <target state="translated">Uso: votemap &lt;id&gt;
+        <target state="needs-translation">Usage:  votemap &lt;id&gt;
 </target>
         <note>GoldSrc identifier: Game_votemap_usage</note>
       </trans-unit>
       <trans-unit id="s000180" resname="Cannot_Vote_Need_More_People">
         <source xml:space="preserve">You can't vote for a map by yourself!
 </source>
-        <target state="translated">Você não pode votar em um mapa sozinho!
+        <target state="needs-translation">You can't vote for a map by yourself!
 </target>
         <note>GoldSrc identifier: Cannot_Vote_Need_More_People</note>
       </trans-unit>
@@ -1769,7 +1772,7 @@
       <trans-unit id="s000182" resname="Cannot_Vote_With_Less_Than_Three">
         <source xml:space="preserve">You can't vote with less than three people on your team
 </source>
-        <target state="translated">Você não pode votar com menos de três pessoas na sua equipe
+        <target state="needs-translation">You can't vote with less than three people on your team
 </target>
         <note>GoldSrc identifier: Cannot_Vote_With_Less_Than_Three</note>
       </trans-unit>
@@ -1783,170 +1786,175 @@
       <trans-unit id="s000184" resname="Game_will_restart_in_console">
         <source xml:space="preserve">The game will restart in %s %s
 </source>
-        <target state="translated">A partida será reiniciada em %s %s</target>
+        <target state="needs-translation">The game will restart in %s %s
+</target>
         <note>GoldSrc identifier: Game_will_restart_in_console</note>
       </trans-unit>
       <trans-unit id="s000185" resname="Cover_me">
         <source xml:space="preserve">Cover Me!
 </source>
-        <target state="translated">Me deem cobertura!</target>
+        <target state="needs-translation">Cover Me!
+</target>
         <note>GoldSrc identifier: Cover_me</note>
       </trans-unit>
       <trans-unit id="s000186" resname="You_take_the_point">
         <source xml:space="preserve">You Take the Point.
 </source>
-        <target state="translated">Você, fique no ponto.</target>
+        <target state="needs-translation">You Take the Point.
+</target>
         <note>GoldSrc identifier: You_take_the_point</note>
       </trans-unit>
       <trans-unit id="s000187" resname="Hold_this_position">
         <source xml:space="preserve">Hold This Position.
 </source>
-        <target state="translated">Mantenham esta posição.</target>
+        <target state="needs-translation">Hold This Position.
+</target>
         <note>GoldSrc identifier: Hold_this_position</note>
       </trans-unit>
       <trans-unit id="s000188" resname="Regroup_team">
         <source xml:space="preserve">Regroup Team.
 </source>
-        <target state="translated">Equipe, reagrupar.</target>
+        <target state="needs-translation">Regroup Team.
+</target>
         <note>GoldSrc identifier: Regroup_team</note>
       </trans-unit>
       <trans-unit id="s000189" resname="Follow_me">
         <source xml:space="preserve">Follow Me.
 </source>
-        <target state="translated">Sigam-me.
+        <target state="needs-translation">Follow Me.
 </target>
         <note>GoldSrc identifier: Follow_me</note>
       </trans-unit>
       <trans-unit id="s000190" resname="Taking_fire">
         <source xml:space="preserve">Taking Fire...Need Assistance!
 </source>
-        <target state="translated">Sob fogo inimigo... Preciso de ajuda!
+        <target state="needs-translation">Taking Fire...Need Assistance!
 </target>
         <note>GoldSrc identifier: Taking_fire</note>
       </trans-unit>
       <trans-unit id="s000191" resname="Go_go_go">
         <source xml:space="preserve">Go go go!
 </source>
-        <target state="translated">Vai, vai, vai!
+        <target state="needs-translation">Go go go!
 </target>
         <note>GoldSrc identifier: Go_go_go</note>
       </trans-unit>
       <trans-unit id="s000192" resname="Team_fall_back">
         <source xml:space="preserve">Team, fall back!
 </source>
-        <target state="translated">Equipe, recuar!
+        <target state="needs-translation">Team, fall back!
 </target>
         <note>GoldSrc identifier: Team_fall_back</note>
       </trans-unit>
       <trans-unit id="s000193" resname="Stick_together_team">
         <source xml:space="preserve">Stick together, team.
 </source>
-        <target state="translated">Equipe, não se separe.
+        <target state="needs-translation">Stick together, team.
 </target>
         <note>GoldSrc identifier: Stick_together_team</note>
       </trans-unit>
       <trans-unit id="s000194" resname="Get_in_position_and_wait">
         <source xml:space="preserve">Get in position and wait for my go.
 </source>
-        <target state="translated">Fique em posição e espere pelo meu sinal.
+        <target state="needs-translation">Get in position and wait for my go.
 </target>
         <note>GoldSrc identifier: Get_in_position_and_wait</note>
       </trans-unit>
       <trans-unit id="s000195" resname="Storm_the_front">
         <source xml:space="preserve">Storm the Front!
 </source>
-        <target state="translated">Ataque pela frente!
+        <target state="needs-translation">Storm the Front!
 </target>
         <note>GoldSrc identifier: Storm_the_front</note>
       </trans-unit>
       <trans-unit id="s000196" resname="Report_in_team">
         <source xml:space="preserve">Report in, team.
 </source>
-        <target state="translated">Reporte, equipe.
+        <target state="needs-translation">Report in, team.
 </target>
         <note>GoldSrc identifier: Report_in_team</note>
       </trans-unit>
       <trans-unit id="s000197" resname="Affirmative">
         <source xml:space="preserve">Affirmative.
 </source>
-        <target state="translated">Afirmativo.
+        <target state="needs-translation">Affirmative.
 </target>
         <note>GoldSrc identifier: Affirmative</note>
       </trans-unit>
       <trans-unit id="s000198" resname="Roger_that">
         <source xml:space="preserve">Roger that.
 </source>
-        <target state="translated">Entendido.
+        <target state="needs-translation">Roger that.
 </target>
         <note>GoldSrc identifier: Roger_that</note>
       </trans-unit>
       <trans-unit id="s000199" resname="Enemy_spotted">
         <source xml:space="preserve">Enemy spotted.
 </source>
-        <target state="translated">Inimigo avistado.
+        <target state="needs-translation">Enemy spotted.
 </target>
         <note>GoldSrc identifier: Enemy_spotted</note>
       </trans-unit>
       <trans-unit id="s000200" resname="Need_backup">
         <source xml:space="preserve">Need backup.
 </source>
-        <target state="translated">Preciso de reforços.
+        <target state="needs-translation">Need backup.
 </target>
         <note>GoldSrc identifier: Need_backup</note>
       </trans-unit>
       <trans-unit id="s000201" resname="Sector_clear">
         <source xml:space="preserve">Sector clear.
 </source>
-        <target state="translated">Setor limpo.
+        <target state="needs-translation">Sector clear.
 </target>
         <note>GoldSrc identifier: Sector_clear</note>
       </trans-unit>
       <trans-unit id="s000202" resname="In_position">
         <source xml:space="preserve">I'm in position.
 </source>
-        <target state="translated">Estou em posição.
+        <target state="needs-translation">I'm in position.
 </target>
         <note>GoldSrc identifier: In_position</note>
       </trans-unit>
       <trans-unit id="s000203" resname="Reporting_in">
         <source xml:space="preserve">Reporting in.
 </source>
-        <target state="translated">Reportando.
+        <target state="needs-translation">Reporting in.
 </target>
         <note>GoldSrc identifier: Reporting_in</note>
       </trans-unit>
       <trans-unit id="s000204" resname="Get_out_of_there">
         <source xml:space="preserve">Get out of there, it's gonna blow!
 </source>
-        <target state="translated">Saia daí, ela vai explodir!
+        <target state="needs-translation">Get out of there, it's gonna blow!
 </target>
         <note>GoldSrc identifier: Get_out_of_there</note>
       </trans-unit>
       <trans-unit id="s000205" resname="Negative">
         <source xml:space="preserve">Negative.
 </source>
-        <target state="translated">Negativo.
+        <target state="needs-translation">Negative.
 </target>
         <note>GoldSrc identifier: Negative</note>
       </trans-unit>
       <trans-unit id="s000206" resname="Enemy_down">
         <source xml:space="preserve">Enemy down.
 </source>
-        <target state="translated">Inimigo morto.
+        <target state="needs-translation">Enemy down.
 </target>
         <note>GoldSrc identifier: Enemy_down</note>
       </trans-unit>
       <trans-unit id="s000207" resname="Hostage_down">
         <source xml:space="preserve">Hostage down.
 </source>
-        <target state="translated">Refém morto.
+        <target state="needs-translation">Hostage down.
 </target>
         <note>GoldSrc identifier: Hostage_down</note>
       </trans-unit>
       <trans-unit id="s000208" resname="Fire_in_the_hole">
         <source xml:space="preserve">Fire in the hole!
 </source>
-        <target state="translated">Lançando granada!
+        <target state="needs-translation">Fire in the hole!
 </target>
         <note>GoldSrc identifier: Fire_in_the_hole</note>
       </trans-unit>
@@ -1981,14 +1989,14 @@
       <trans-unit id="s000213" resname="Vote">
         <source xml:space="preserve">%s :  %s (%s vote)
 </source>
-        <target state="translated">%s :  %s (%s voto)
+        <target state="needs-translation">%s :  %s (%s vote)
 </target>
         <note>GoldSrc identifier: Vote</note>
       </trans-unit>
       <trans-unit id="s000214" resname="Votes">
         <source xml:space="preserve">%s :  %s (%s votes)
 </source>
-        <target state="translated">%s :  %s (%s votos)
+        <target state="needs-translation">%s :  %s (%s votes)
 </target>
         <note>GoldSrc identifier: Votes</note>
       </trans-unit>
@@ -2170,28 +2178,28 @@
       <trans-unit id="s000240" resname="Friend">
         <source xml:space="preserve">Friend
 </source>
-        <target state="translated">Amigo
+        <target state="needs-translation">Friend
 </target>
         <note>GoldSrc identifier: Friend</note>
       </trans-unit>
       <trans-unit id="s000241" resname="Enemy">
         <source xml:space="preserve">Enemy
 </source>
-        <target state="translated">Inimigo
+        <target state="needs-translation">Enemy
 </target>
         <note>GoldSrc identifier: Enemy</note>
       </trans-unit>
       <trans-unit id="s000242" resname="Hostage">
         <source xml:space="preserve">Hostage
 </source>
-        <target state="translated">Refém
+        <target state="needs-translation">Hostage
 </target>
         <note>GoldSrc identifier: Hostage</note>
       </trans-unit>
       <trans-unit id="s000243" resname="Health">
         <source xml:space="preserve">Health
 </source>
-        <target state="translated">Vida
+        <target state="needs-translation">Health
 </target>
         <note>GoldSrc identifier: Health</note>
       </trans-unit>
@@ -2772,7 +2780,7 @@
       <trans-unit id="s000326" resname="Name_change_at_respawn">
         <source xml:space="preserve">Your name will be changed after your next respawn.
 </source>
-        <target state="translated">Seu nome mudará após o seu próximo renascimento.
+        <target state="needs-translation">Your name will be changed after your next respawn.
 </target>
         <note>GoldSrc identifier: Name_change_at_respawn</note>
       </trans-unit>
